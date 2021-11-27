@@ -6,7 +6,7 @@ class HCN{
 		int dai, rong;
 	public:
 		void set(){
-			cout << "Chieu dai: "; cin >> this->dai;
+			cout << "Chieu dai: "; cin >> this->dai; //con tro this
 			cout << "Chieu rong: "; cin >> this->rong;
 		}
 		friend void tinh(HCN dt);
