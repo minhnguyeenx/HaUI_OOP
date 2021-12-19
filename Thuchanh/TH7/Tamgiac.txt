@@ -1,0 +1,12 @@
+Tam giac P vua nhap: 
+Canh a: 1
+Canh b: 2
+Canh c: 3
+Chu vi tam giac: 6
+
+Tam giac Q vua nhap: 
+Canh a: 4
+Canh b: 5
+Canh c: 6
+Chu vi tam giac: 15
+
